@@ -1,0 +1,1 @@
+!pip install langchain langchain-community "unstructured[md]" "unstructured[image]" nltk chromadb openai tiktoken flask flask_cors
