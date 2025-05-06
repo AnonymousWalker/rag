@@ -1,0 +1,2 @@
+- Source documents are stored in a directory. RAG will vectorize these documents during initialization and construct the database with it.
+- Vector Database is located at `config['DB_PATH']`
